@@ -48,7 +48,7 @@ CRUD処理を中心に、認証、画像アップロード、検索、並べ替�
 ### インストール
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yamamoto-666/laravel-library.git
 cd laravel-library
 composer install
 npm install
